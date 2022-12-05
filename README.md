@@ -5,6 +5,14 @@
 The following link contains all datasets to be added into the Apache IoTDB
 https://cloud.tsinghua.edu.cn/f/7e6ab80cac6845b8b6c0/?dl=1
 
+## Baseline v.s. Optimization
+
+Baseline: IoTDBXXUDF
+
+Optimization: IoTDBXX
+
+XX = {TS, Temporal, Relational}
+
 ## Time-series query
 
 Use App.java > IoTDBTS or IoTDBTSUDF
