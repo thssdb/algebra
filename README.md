@@ -2,8 +2,12 @@
 
 ## Datasets
 
+### Download
 The following link contains all datasets to be added into the Apache IoTDB
 https://cloud.tsinghua.edu.cn/f/7e6ab80cac6845b8b6c0/?dl=1
+
+### import
+tools/import-csv.bat -h 127.0.0.1 -p 6667 -u root -pw root -f xxx.csv
 
 ## Baseline v.s. Optimization
 
